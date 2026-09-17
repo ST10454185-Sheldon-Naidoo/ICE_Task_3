@@ -1,0 +1,16 @@
+C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 3\PROG7312\ICE Task 3\FactoryClient\obj\Debug\net9.0-windows\FactoryClient.Forms.MainForm.resources
+C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 3\PROG7312\ICE Task 3\FactoryClient\obj\Debug\net9.0-windows\FactoryClient.csproj.GenerateResource.cache
+C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 3\PROG7312\ICE Task 3\FactoryClient\obj\Debug\net9.0-windows\FactoryClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 3\PROG7312\ICE Task 3\FactoryClient\obj\Debug\net9.0-windows\FactoryClient.AssemblyInfoInputs.cache
+C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 3\PROG7312\ICE Task 3\FactoryClient\obj\Debug\net9.0-windows\FactoryClient.AssemblyInfo.cs
+C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 3\PROG7312\ICE Task 3\FactoryClient\obj\Debug\net9.0-windows\FactoryClient.csproj.CoreCompileInputs.cache
+C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 3\PROG7312\ICE Task 3\FactoryClient\bin\Debug\net9.0-windows\FactoryClient.exe
+C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 3\PROG7312\ICE Task 3\FactoryClient\bin\Debug\net9.0-windows\FactoryClient.deps.json
+C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 3\PROG7312\ICE Task 3\FactoryClient\bin\Debug\net9.0-windows\FactoryClient.runtimeconfig.json
+C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 3\PROG7312\ICE Task 3\FactoryClient\bin\Debug\net9.0-windows\FactoryClient.dll
+C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 3\PROG7312\ICE Task 3\FactoryClient\bin\Debug\net9.0-windows\FactoryClient.pdb
+C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 3\PROG7312\ICE Task 3\FactoryClient\obj\Debug\net9.0-windows\FactoryClient.dll
+C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 3\PROG7312\ICE Task 3\FactoryClient\obj\Debug\net9.0-windows\refint\FactoryClient.dll
+C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 3\PROG7312\ICE Task 3\FactoryClient\obj\Debug\net9.0-windows\FactoryClient.pdb
+C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 3\PROG7312\ICE Task 3\FactoryClient\obj\Debug\net9.0-windows\FactoryClient.genruntimeconfig.cache
+C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 3\PROG7312\ICE Task 3\FactoryClient\obj\Debug\net9.0-windows\ref\FactoryClient.dll
